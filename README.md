@@ -24,8 +24,8 @@ Esses são os 4 pilares principais do POO
 E para representar trazemos as **CLASSES** para transformando assim em OBJETOS. 
 
 -----------------------------------------------------
+![pilares da poo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmaterialpublic.imd.ufrn.br%2Fcurso%2Fdisciplina%2F5%2F76%2F1%2F3&psig=AOvVaw1oqkO60eSAKzSrzqfJ8-FU&ust=1674910431186000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDbudzl5_wCFQAAAAAdAAAAABAE)
 
 
 ------------
 
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
