@@ -14,17 +14,21 @@ Já as strings tem o acesso **private** sendo assim só são acessados pelo noss
 Modelamos as Classes **CURSO**,e  **MENTORIA**, e as demais criando seus métodos e atributos!
 
 
-Utilizamos a:
+Utilizando:
+
+![pilares da programação orientada a objeto](https://www.freecodecamp.org/portuguese/news/content/images/2022/07/capa-1.png)
+
+
 1. **ABSTRAÇÃO**;
 2. **ENCAPSULAMENTO**;
 3. **HERANÇA**;
 4. **POLIMORFISMO** .
 
-Esses são os 4 pilares principais do POO  
-E para representar trazemos as **CLASSES** para transformando assim em OBJETOS. 
+Esses são os 4 pilares principais da _PROGRAMAÇÃO ORIENTADA A OBJETO_  
+E para representar trazemos as **CLASSES** transformando assim em OBJETOS. 
 
 -----------------------------------------------------
-![pilares da poo](https://materiais.imd.ufrn.br/materialV2/assets/lib/upload/plugins/source/imagens/76/697/pilares.jpg)
+
 
 
 ------------
